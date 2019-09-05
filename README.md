@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 
--[x]Party size option to divide tip between multiple people and give amount per person
+* [ ] Party size option to divide tip between multiple people and give amount per person
 
 ## Video Walkthrough
 
@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+The application is very bare bones and could be improved upon by by adding in more features such as adding a division between memmbers of the user's party.
 
 ## License
 
